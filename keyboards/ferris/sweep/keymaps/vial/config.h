@@ -9,3 +9,5 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 2, 3, 0, 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1, 0, 2, 4 }
 
+// #define SPLIT_HAND_PIN B7
+#define EE_HANDS
